@@ -1,9 +1,9 @@
 var bg, backgroundImg;
 
 function preload() {
-  backgroundImage = loadImage("images/bg.jpg");
-  ironImage = loadImage("images/iron.png");
-  stoneImage = loadImage("images/stone.png");
+  backgroundImage = loadImage("bg.jpg");
+  ironImage = loadImage("iron.png");
+  stoneImage = loadImage("stone.png");
   }
 
 function setup() {
